@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/pandoclock/static/js/main.86ca988d.chunk.js",
-    "main.js.map": "/pandoclock/static/js/main.86ca988d.chunk.js.map",
+    "main.js": "/pandoclock/static/js/main.083bea5c.chunk.js",
+    "main.js.map": "/pandoclock/static/js/main.083bea5c.chunk.js.map",
     "runtime-main.js": "/pandoclock/static/js/runtime-main.8bfa3dd1.js",
     "runtime-main.js.map": "/pandoclock/static/js/runtime-main.8bfa3dd1.js.map",
     "static/js/2.8a79be51.chunk.js": "/pandoclock/static/js/2.8a79be51.chunk.js",
     "static/js/2.8a79be51.chunk.js.map": "/pandoclock/static/js/2.8a79be51.chunk.js.map",
     "index.html": "/pandoclock/index.html",
-    "precache-manifest.7a763265ba4aa746d91f7932fd40cecd.js": "/pandoclock/precache-manifest.7a763265ba4aa746d91f7932fd40cecd.js",
+    "precache-manifest.0f464edd638758b4b320d3dade42f279.js": "/pandoclock/precache-manifest.0f464edd638758b4b320d3dade42f279.js",
     "service-worker.js": "/pandoclock/service-worker.js",
     "static/js/2.8a79be51.chunk.js.LICENSE.txt": "/pandoclock/static/js/2.8a79be51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8bfa3dd1.js",
     "static/js/2.8a79be51.chunk.js",
-    "static/js/main.86ca988d.chunk.js"
+    "static/js/main.083bea5c.chunk.js"
   ]
 }
