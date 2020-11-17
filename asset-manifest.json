@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/pandoclock/static/js/main.13e6b997.chunk.js",
+    "main.js.map": "/pandoclock/static/js/main.13e6b997.chunk.js.map",
+    "runtime-main.js": "/pandoclock/static/js/runtime-main.8bfa3dd1.js",
+    "runtime-main.js.map": "/pandoclock/static/js/runtime-main.8bfa3dd1.js.map",
+    "static/js/2.8a79be51.chunk.js": "/pandoclock/static/js/2.8a79be51.chunk.js",
+    "static/js/2.8a79be51.chunk.js.map": "/pandoclock/static/js/2.8a79be51.chunk.js.map",
+    "index.html": "/pandoclock/index.html",
+    "precache-manifest.195357fe4d0e812d9f7ed8e2d41010f0.js": "/pandoclock/precache-manifest.195357fe4d0e812d9f7ed8e2d41010f0.js",
+    "service-worker.js": "/pandoclock/service-worker.js",
+    "static/js/2.8a79be51.chunk.js.LICENSE.txt": "/pandoclock/static/js/2.8a79be51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bfa3dd1.js",
+    "static/js/2.8a79be51.chunk.js",
+    "static/js/main.13e6b997.chunk.js"
+  ]
+}
