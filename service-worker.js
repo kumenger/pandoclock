@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pandoclock/precache-manifest.2336cea3290ba8d7b07c3bfd30668972.js"
+  "/pandoclock/precache-manifest.bec0b4caa1a9bb4efae8d65c913b11ef.js"
 );
 
 self.addEventListener('message', (event) => {

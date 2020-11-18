@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d83566879d2411e3c26f31862e198d9",
+    "revision": "1f6b797e4f34b016610d5b26255e7d37",
     "url": "/pandoclock/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pandoclock/static/js/2.8a79be51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fba73ebe4cb9041d51c9",
-    "url": "/pandoclock/static/js/main.1d8e3b07.chunk.js"
+    "revision": "e04047bbf9cc0fa7047b",
+    "url": "/pandoclock/static/js/main.ce23855d.chunk.js"
   },
   {
     "revision": "a1091e94a76b135acb81",
